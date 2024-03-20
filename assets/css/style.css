@@ -1,0 +1,13 @@
+@import url("../fonts/bootstrap-icons/font/bootstrap-icons.css");
+@import url("bootstrap.min.css");
+@import url("global.css");
+@import url("animation.css");
+@import url("../../plugins/wow/animate.css");
+@import url("../../plugins/swiper/swiper-bundle.min.css");
+@import url("../../plugins/fancybox/jquery.fancybox.css");
+@import url("header.css");
+@import url("section-heading.css");
+@import url("footer.css");
+@import url("main.css");
+@import url("shop.css");
+@import url("responsive.css");
